@@ -1,0 +1,105 @@
+.header {
+      height: 37vw;
+      width: 100%;
+      margin: 0px auto;
+      background: url('../assets/bg3.jpg') no-repeat ;
+      background-size: cover;
+      position: relative;
+      color: white;
+      opacity: 1;
+      transform: translate(0);
+  }
+  .header-content{
+    position: absolute;
+    left:1%;
+    width: 99%;
+  }
+.box {
+      height: 37vw;
+      width: 100%;
+      margin: 0px auto;
+      background: url('../assets/bg1.jpg') no-repeat ;
+      background-size: cover;
+      position: relative;
+      color: white;
+      opacity: 1;
+      transform: translate(0);
+  }
+  .box-content{
+    position: absolute;
+    left:1%;
+    width: 99%;
+  }
+  .head {
+    height: 37vw;
+    width: 100%;
+    margin: 0px auto;
+    background: url('../assets/bg4.jpg') no-repeat ;
+    background-size: cover;
+    position: relative;
+    color: white;
+    opacity: 1;
+    transform: translate(0);
+}
+.head-content{
+  position: absolute;
+  left:1%;
+  width: 99%;
+}
+  .about {
+    height: 37vw;
+    width: 100%;
+    margin: 0px auto;
+    background: url('../assets/bg6.jpg') no-repeat ;
+    background-size: cover;
+    position: relative;
+    color: white;
+    opacity: 1;
+    transform: translate(0);
+}
+.about-content{
+  position: absolute;
+  left:1%;
+  width: 99%;
+}
+.line{
+  position: relative;
+  left:46%;
+  border: 1.5px solid black;
+  
+}
+.pine{
+  position: relative;
+ 
+  border: 1.5px solid black;
+  
+}
+.contact {
+  height: 37vw;
+  width: 100%;
+  margin: 0px auto;
+  background: url('../assets/bg7.jpg') no-repeat ;
+  background-size: cover;
+  position: relative;
+  color: white;
+  opacity: 1;
+  transform: translate(0);
+}
+.contact-content{
+position: absolute;
+left:1%;
+width: 99%;
+}
+.pad{
+  margin-right:8rem ;
+  /* padding-right: 7.75rem; */
+}
+.back{
+  background-color: rgba(0, 0, 0, 0.8 );
+}
+.ic{
+  color: rgba(255, 255, 255, 0.3);;
+}
+.ic:hover{
+  color: white;
+}
